@@ -1,0 +1,14 @@
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\bin\Debug\netcoreapp2.2\ApiGeotec.deps.json
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\bin\Debug\netcoreapp2.2\ApiGeotec.runtimeconfig.json
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\bin\Debug\netcoreapp2.2\ApiGeotec.runtimeconfig.dev.json
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\bin\Debug\netcoreapp2.2\ApiGeotec.dll
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\obj\Debug\netcoreapp2.2\ApiGeotec.csproj.CoreCompileInputs.cache
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\obj\Debug\netcoreapp2.2\ApiGeotec.RazorAssemblyInfo.cache
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\obj\Debug\netcoreapp2.2\ApiGeotec.RazorAssemblyInfo.cs
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\obj\Debug\netcoreapp2.2\ApiGeotec.AssemblyInfoInputs.cache
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\obj\Debug\netcoreapp2.2\ApiGeotec.AssemblyInfo.cs
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\obj\Debug\netcoreapp2.2\ApiGeotec.RazorTargetAssemblyInfo.cache
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\bin\Debug\netcoreapp2.2\ApiGeotec.pdb
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\obj\Debug\netcoreapp2.2\ApiGeotec.dll
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\obj\Debug\netcoreapp2.2\ApiGeotec.pdb
+C:\PROYECTOS 2022\GEOTEC\SERVIDOR\ApiGeotec\ApiGeotec\obj\Debug\netcoreapp2.2\ApiGeotec.csprojAssemblyReference.cache
