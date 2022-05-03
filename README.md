@@ -16,3 +16,14 @@
       - static public string BDUsuario = "sa";		-> Usuario de la base de datos
       - static public string BDPassword = "12345678";	-> Contraseña de la base de datos
   - Iniciar el proyecto y obtener la URl y el PUERTO para agregarlo al cliente
+
+**3 CLIENTE**
+  - Instalar las dependencias con "npm i"
+  - Entrar a la carpeta "CLIENTE" y abrir el proyecto "ApiGeotec", se encuentra creado con REACT
+  - Abrir el archivo \test-geotec\src\sistema\server.js
+  - Se debe modificar las variables con la ruta del servidor y el puerto
+    - ip: "http://192.168.100.9", // DIRECCI�N IP DEL SERVIDOR
+    - puerto: "1238", // PUERTO DEL SERVIDOR
+  - Ejecutar el proyecto con "npm start"
+
+  
